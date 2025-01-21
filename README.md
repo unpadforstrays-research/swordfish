@@ -1,8 +1,8 @@
-### Swordfish
+### FBMI (Feline Body Mass Index) Calculator
 
-Swordfish is a versatile tool designed mainly for simplifying the calculation of Feline Body Mass Index. Developed using C# and Microsoft .NET as a desktop application,, Swordfish is capable of single-counting or bulk-counting.
+This is a tool designed for simplifying the calculation of FBMI. Developed using C# and Microsoft .NET as a desktop application, FBMI Calculator is capable of single-counting or bulk-counting and has history & label feature.
 
-Read more of Feline Body Mass Index [here](doi.org/10.14943/jjvr.64.1.51)
+Read more about Feline Body Mass Index [doi.org/10.14943/jjvr.64.1.51](doi.org/10.14943/jjvr.64.1.51)
 
 
 ##### References
